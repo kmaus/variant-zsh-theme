@@ -16,4 +16,4 @@ sh -c "$(wget https://raw.githubusercontent.com/robbyrussell/oh-my-zsh/master/to
 ```
 
 Here is my zsh theme. To use, clone it into the `~/.oh-my-zsh/themes` directory 
-and then set your theme to `variant` in `~/.zshrc`
+and then set your theme to `/variant-zsh-theme/variant` in `~/.zshrc`
